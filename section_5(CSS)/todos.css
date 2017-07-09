@@ -7,9 +7,9 @@ li {
 }
 
 #special {
-	background: blue;
+	background: yellow;
 }
 
 .completed {
-	text-decoration: line-through;
+	text-decoration: underline;
 }
